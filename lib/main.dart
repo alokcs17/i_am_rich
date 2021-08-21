@@ -12,14 +12,12 @@ void main() {
         ),
         body: Image(
           image: NetworkImage(
-              'https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1524492412937-b28074a5d7da%3Fixid%3DMnwxMjA3fDB8MHxzZWFyY2h8MXx8aW5kaWF8ZW58MHx8MHx8%26ixlib%3Drb-1.2.1%26w%3D1000%26q%3D80&imgrefurl=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Findia&tbnid=gptnRfKKk_aFoM&vet=12ahUKEwjmsN3Kzq3yAhWZX30KHeglCRkQMygGegUIARDXAQ..i&docid=tISmADMACzQrsM&w=1000&h=667&q=images&ved=2ahUKEwjmsN3Kzq3yAhWZX30KHeglCRkQMygGegUIARDXAQ'),
+              'https://images.pexels.com/photos/674010/pexels-photo-674010.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500'),
         ),
       ),
     ),
   );
 }
-
-test() {}
 
 // class MyApp extends StatelessWidget {
 //   // This widget is the root of your application.
